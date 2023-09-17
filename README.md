@@ -66,3 +66,5 @@ The results can be seen in the following table:
 
 ## Conclusion
 In this project, we used ensemble machine learning to predict the prices of Airbnb listings in New York City. We evaluated the performance of various ensemble methods, including random forest, gradient boosting, XGBoost, and CatBoost. We also analyzed the feature importance of the models to determine which variables are most important in predicting the prices of Airbnb listings. Finally, we stacked the best models together to predict the prices of new Airbnb listings in New York City.
+
+![alt text](DatapointsByCoordinates.png)
